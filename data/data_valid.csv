@@ -1,0 +1,751 @@
+Student_ID,Gender,Age,Major,Attendance_Pct,Study_Hours_Per_Day,Previous_GPA,Sleep_Hours,Social_Hours_Week,Final_CGPA
+ID04800,Female,21,Economics,79.0,7.6,2.79,5.6,11,3.07
+ID03267,Male,22,Computer Science,86.7,4.1,3.18,6.5,6,3.47
+ID02388,Female,23,Mathematics,85.1,2.3,4.0,5.6,11,4.0
+ID04920,Male,24,Engineering,90.1,5.4,2.9,8.4,9,3.03
+ID01955,Female,21,Economics,56.4,5.1,2.55,6.9,7,2.17
+ID03800,Female,23,Psychology,82.0,4.8,3.98,8.0,7,4.0
+ID04777,Male,23,Mathematics,57.3,2.4,2.86,4.4,8,2.58
+ID03950,Male,23,Computer Science,100.0,2.9,3.47,7.9,8,3.66
+ID01917,Female,21,Business,91.1,5.6,2.79,6.8,6,3.06
+ID04586,Female,24,Business,69.1,5.3,4.0,5.4,11,4.0
+ID02365,Female,22,Economics,91.8,2.3,3.92,5.9,7,3.99
+ID03903,Female,21,Economics,89.6,4.4,2.41,8.4,12,2.82
+ID01802,Female,23,Mathematics,81.9,6.0,2.73,7.0,14,3.27
+ID04519,Male,18,Psychology,82.4,2.3,3.19,6.8,9,3.28
+ID00271,Female,24,Psychology,100.0,5.3,3.42,5.5,5,3.56
+ID02463,Female,21,Computer Science,70.1,3.8,3.66,7.3,10,3.7
+ID01036,Female,22,Psychology,64.6,0.5,2.97,8.4,7,2.59
+ID00433,Female,21,Mathematics,75.2,2.6,4.0,7.2,6,3.79
+ID03972,Male,20,Economics,95.9,4.4,3.33,8.2,5,3.54
+ID03126,Female,19,Economics,100.0,3.6,2.98,5.4,12,3.06
+ID00006,Male,20,Business,86.8,3.5,2.16,7.0,7,2.41
+ID02425,Male,22,Engineering,89.2,5.9,3.53,4.8,12,4.0
+ID01563,Female,22,Psychology,78.7,1.3,3.53,7.0,8,3.44
+ID04499,Male,24,Business,54.2,9.5,2.56,4.2,10,2.55
+ID04249,Female,21,Mathematics,78.2,4.2,2.12,7.9,9,2.13
+ID00138,Female,24,Computer Science,81.7,4.6,3.96,7.9,6,4.0
+ID04750,Female,20,Psychology,100.0,3.8,2.72,7.2,8,3.02
+ID02916,Female,20,Engineering,100.0,5.2,3.03,6.1,9,3.42
+ID01416,Female,19,Business,81.1,8.3,3.88,7.0,7,4.0
+ID03443,Male,22,Computer Science,82.9,5.2,2.85,5.6,4,3.2
+ID03832,Female,22,Business,82.4,2.4,2.6,7.2,3,2.78
+ID01501,Male,22,Psychology,75.2,9.7,2.76,6.3,9,3.26
+ID03004,Female,18,Mathematics,83.4,2.9,3.32,7.7,6,3.78
+ID03022,Male,20,Business,100.0,3.2,3.06,5.9,8,3.3
+ID03603,Male,24,Business,72.2,2.4,2.07,4.7,12,1.9
+ID04191,Female,20,Mathematics,87.5,4.2,3.59,9.0,8,3.67
+ID04555,Male,21,Mathematics,89.2,3.3,3.61,9.5,7,3.87
+ID03742,Female,19,Engineering,100.0,7.5,3.15,4.3,10,3.73
+ID03515,Female,19,Computer Science,77.6,3.4,3.19,7.7,8,3.27
+ID02331,Male,22,Economics,67.2,4.0,2.82,5.8,4,2.81
+ID03609,Female,18,Engineering,82.1,1.9,3.57,7.7,10,3.76
+ID02366,Male,21,Business,76.2,6.3,2.09,6.2,8,2.22
+ID00743,Female,21,Psychology,100.0,3.7,3.24,6.9,7,3.51
+ID03845,Male,20,Psychology,48.1,1.6,3.59,8.6,8,3.06
+ID04531,Male,21,Business,88.3,5.1,3.45,6.0,7,4.0
+ID00576,Female,18,Engineering,90.8,4.7,2.9,7.1,3,3.39
+ID01676,Male,20,Computer Science,100.0,4.3,3.12,6.2,12,3.36
+ID01173,Female,23,Mathematics,97.3,2.9,2.91,6.2,11,3.17
+ID02066,Female,22,Psychology,90.0,1.7,3.03,7.2,10,3.24
+ID01587,Female,23,Computer Science,100.0,1.1,3.46,7.3,6,3.47
+ID04290,Female,20,Engineering,100.0,1.7,3.03,8.5,11,3.17
+ID01008,Female,23,Computer Science,95.3,5.5,3.09,8.4,6,3.25
+ID02679,Male,18,Computer Science,100.0,6.0,2.86,7.0,13,3.28
+ID01868,Male,24,Economics,76.7,5.1,2.74,6.3,11,3.0
+ID01277,Male,22,Psychology,73.7,7.8,3.03,7.3,9,3.26
+ID03092,Female,23,Business,98.6,0.9,3.05,5.5,10,3.05
+ID04982,Male,23,Mathematics,96.4,2.5,3.99,5.0,7,4.0
+ID00488,Male,19,Mathematics,94.1,5.3,2.96,7.8,7,3.26
+ID03288,Female,24,Business,77.1,6.8,3.05,8.1,12,3.2
+ID04408,Male,21,Psychology,61.5,1.8,2.95,6.4,10,2.97
+ID01821,Male,24,Mathematics,99.2,1.1,3.02,7.8,6,3.27
+ID04784,Male,19,Psychology,100.0,4.0,2.59,4.7,6,2.92
+ID03889,Female,24,Mathematics,58.6,3.4,2.91,4.3,6,2.46
+ID03446,Female,23,Business,63.7,1.1,3.21,5.5,7,2.98
+ID00876,Male,22,Mathematics,69.0,4.3,3.25,6.9,9,3.15
+ID00300,Male,18,Economics,82.3,4.3,2.8,7.2,6,3.07
+ID03444,Female,18,Psychology,94.1,2.8,3.2,7.1,6,3.48
+ID04033,Male,18,Engineering,65.9,2.7,2.94,7.7,14,2.92
+ID04405,Female,22,Economics,100.0,2.9,3.49,7.2,5,3.82
+ID03730,Female,18,Psychology,89.0,9.1,2.64,6.3,8,3.4
+ID00372,Male,23,Mathematics,93.0,7.7,3.49,9.3,2,3.99
+ID03521,Male,18,Mathematics,92.8,3.6,3.43,6.1,4,3.76
+ID03651,Female,23,Engineering,68.7,4.1,2.35,9.8,15,2.17
+ID00504,Female,22,Computer Science,82.6,2.2,2.78,7.5,5,3.22
+ID01899,Male,23,Computer Science,99.6,1.0,3.1,6.3,11,3.18
+ID01232,Male,20,Business,91.9,6.2,3.38,8.3,8,3.93
+ID04433,Male,23,Economics,87.0,3.8,3.57,8.1,5,3.97
+ID02893,Female,23,Business,73.4,9.9,3.4,7.8,10,3.65
+ID03516,Female,20,Mathematics,85.7,0.9,2.98,6.0,16,2.88
+ID03880,Male,19,Economics,81.8,6.2,3.73,8.7,10,4.0
+ID00131,Male,20,Mathematics,75.1,8.4,2.55,4.9,3,2.52
+ID03815,Male,22,Mathematics,100.0,11.3,3.06,5.3,10,3.58
+ID01021,Female,24,Business,93.0,2.2,2.4,8.4,8,2.54
+ID01529,Female,19,Mathematics,73.4,1.7,2.2,8.3,3,1.95
+ID02904,Male,18,Mathematics,94.1,6.4,3.48,7.7,10,3.77
+ID00410,Male,24,Computer Science,100.0,2.6,4.0,4.0,4,4.0
+ID00835,Male,18,Business,69.6,2.8,3.2,7.4,12,3.26
+ID00206,Male,20,Mathematics,84.1,6.7,3.88,6.6,3,4.0
+ID02569,Female,23,Economics,75.4,6.3,3.23,8.3,8,3.41
+ID02198,Female,20,Economics,73.9,3.5,3.17,8.1,9,3.25
+ID01575,Male,23,Economics,100.0,2.9,3.31,5.8,8,3.37
+ID02585,Female,24,Business,35.2,4.7,2.94,9.2,2,2.45
+ID03014,Male,23,Mathematics,50.1,1.5,2.74,8.0,9,2.53
+ID00132,Male,19,Economics,100.0,1.6,3.15,8.2,10,3.11
+ID00115,Female,23,Computer Science,67.6,3.8,3.47,5.9,6,3.59
+ID02474,Female,23,Engineering,72.0,2.7,2.98,6.3,7,2.96
+ID04217,Male,20,Computer Science,82.7,4.7,2.92,7.4,9,3.37
+ID02992,Female,18,Computer Science,60.9,2.8,2.42,5.9,8,2.43
+ID03504,Male,24,Computer Science,97.8,4.2,4.0,5.7,5,4.0
+ID04188,Female,20,Business,90.0,4.6,3.45,7.1,8,3.86
+ID00164,Male,24,Psychology,67.7,1.8,2.76,5.9,10,2.67
+ID03101,Male,20,Engineering,96.8,4.1,2.3,6.5,5,2.84
+ID04677,Male,24,Mathematics,100.0,1.3,2.88,5.8,3,3.11
+ID03704,Female,19,Economics,73.6,3.9,3.57,8.4,10,3.71
+ID04365,Male,22,Computer Science,100.0,6.9,2.58,7.9,5,3.09
+ID02667,Male,18,Business,100.0,2.6,3.78,9.9,10,3.85
+ID04998,Male,19,Engineering,92.2,13.5,3.55,6.3,6,4.0
+ID02317,Male,18,Psychology,94.8,2.4,3.8,5.3,9,4.0
+ID01383,Female,20,Computer Science,100.0,4.0,3.08,5.3,1,3.35
+ID03599,Male,18,Economics,89.4,6.8,3.5,5.7,11,4.0
+ID01005,Female,22,Economics,89.0,3.2,3.53,8.8,6,3.78
+ID02717,Female,18,Economics,86.8,8.1,3.67,5.5,8,3.97
+ID00673,Male,22,Psychology,88.1,2.9,2.7,6.2,9,2.94
+ID00364,Male,20,Mathematics,59.4,2.7,3.35,9.0,9,2.81
+ID04493,Female,24,Engineering,100.0,4.0,3.49,5.3,6,3.69
+ID02156,Male,24,Economics,100.0,8.0,3.32,7.0,9,3.97
+ID03481,Male,18,Mathematics,55.3,7.0,2.95,7.6,16,2.37
+ID04912,Female,18,Computer Science,86.4,6.2,2.9,6.2,5,3.54
+ID04150,Female,19,Economics,76.2,1.0,3.25,6.5,8,3.35
+ID00103,Male,23,Engineering,70.2,2.9,4.0,7.6,16,3.84
+ID02945,Female,21,Business,75.2,4.2,3.93,5.2,9,3.95
+ID04168,Male,22,Computer Science,79.9,1.3,2.44,8.0,6,2.41
+ID00190,Male,18,Computer Science,81.4,3.3,2.98,4.0,9,3.3
+ID01734,Male,24,Computer Science,91.5,0.8,3.58,5.1,11,3.48
+ID00884,Male,21,Psychology,80.5,5.1,3.3,7.2,9,3.68
+ID04226,Female,19,Economics,93.0,8.8,3.11,7.1,12,3.59
+ID00229,Female,19,Mathematics,98.8,6.7,3.43,5.7,12,3.64
+ID00934,Male,22,Business,100.0,2.4,3.26,7.8,9,3.59
+ID03725,Male,21,Computer Science,93.0,4.0,3.12,6.4,11,3.3
+ID00314,Female,20,Economics,78.1,1.6,3.0,4.0,7,2.78
+ID03531,Male,22,Mathematics,93.1,3.9,2.78,5.2,9,3.06
+ID02849,Female,24,Engineering,76.4,1.5,3.24,6.6,3,3.06
+ID04069,Female,19,Business,87.5,3.1,4.0,6.0,5,4.0
+ID03051,Male,21,Psychology,71.3,2.9,3.05,8.1,6,2.76
+ID02802,Female,20,Mathematics,40.5,6.0,3.15,6.1,6,3.1
+ID03726,Female,22,Psychology,79.8,6.6,2.67,5.6,8,2.79
+ID01319,Male,23,Computer Science,62.6,1.8,3.4,6.0,3,3.43
+ID01778,Male,22,Business,56.7,4.2,3.99,5.0,9,3.78
+ID01445,Female,19,Computer Science,83.6,5.1,2.88,4.5,10,3.33
+ID00081,Female,18,Business,68.7,5.6,3.72,5.0,6,3.85
+ID01256,Male,24,Economics,89.6,2.3,3.25,7.8,8,3.67
+ID00663,Female,20,Mathematics,100.0,3.5,2.45,9.7,6,2.74
+ID02505,Male,18,Engineering,80.9,10.4,3.02,7.2,8,3.86
+ID00817,Female,20,Mathematics,100.0,2.7,2.07,8.5,13,2.16
+ID03341,Female,24,Psychology,83.4,1.5,3.99,10.0,7,4.0
+ID02088,Female,22,Economics,81.9,11.2,3.69,8.5,6,4.0
+ID03200,Male,21,Economics,83.5,4.2,3.22,8.7,5,3.3
+ID01342,Male,21,Mathematics,94.3,1.5,4.0,5.7,7,4.0
+ID01089,Female,23,Psychology,74.4,6.3,3.4,6.7,10,3.39
+ID04369,Male,18,Economics,98.7,6.2,2.8,7.0,7,3.42
+ID01370,Male,19,Economics,91.0,4.4,3.16,8.1,10,3.45
+ID01531,Male,24,Business,90.0,3.5,2.05,5.6,8,2.35
+ID04252,Male,20,Business,67.9,3.1,2.74,6.0,9,2.75
+ID04959,Male,24,Computer Science,86.7,6.1,2.53,8.3,10,2.74
+ID00999,Female,18,Mathematics,68.4,6.1,3.14,7.4,9,3.42
+ID02440,Male,24,Economics,80.0,5.8,3.33,9.3,4,3.85
+ID03349,Male,22,Computer Science,91.8,6.3,3.48,7.9,9,4.0
+ID03992,Male,23,Mathematics,100.0,3.1,3.56,6.0,8,3.87
+ID04795,Male,24,Business,76.9,3.1,3.38,5.2,7,3.3
+ID00047,Male,18,Psychology,84.0,3.3,3.47,9.0,8,3.76
+ID04658,Male,19,Computer Science,82.0,1.8,2.74,4.5,8,2.9
+ID02407,Male,21,Psychology,100.0,1.0,2.4,5.8,7,2.48
+ID04134,Female,23,Psychology,96.9,4.4,3.78,8.2,5,4.0
+ID03987,Male,23,Economics,91.9,10.3,3.17,6.1,10,3.78
+ID00496,Male,22,Psychology,81.8,2.4,3.05,10.0,10,3.41
+ID00489,Female,22,Engineering,100.0,4.3,2.69,10.0,11,3.03
+ID00641,Male,23,Psychology,63.9,6.8,2.73,8.2,4,2.99
+ID04629,Female,22,Computer Science,96.3,3.5,3.74,7.1,10,4.0
+ID02556,Female,23,Computer Science,72.9,2.6,2.43,8.3,6,2.4
+ID02229,Male,20,Psychology,74.5,6.1,3.1,8.1,4,3.14
+ID01084,Female,23,Mathematics,77.2,2.8,2.78,7.6,11,2.83
+ID00104,Male,22,Mathematics,82.8,2.2,3.27,7.4,6,3.39
+ID02738,Male,24,Psychology,74.2,6.8,2.63,6.5,9,3.0
+ID04323,Female,20,Economics,71.4,4.5,2.99,9.4,6,3.16
+ID00651,Male,20,Engineering,78.5,1.2,3.29,5.6,5,3.07
+ID04243,Female,18,Business,83.1,4.6,1.65,7.3,5,1.95
+ID01723,Male,24,Psychology,100.0,3.6,2.58,7.1,6,3.08
+ID01014,Male,24,Mathematics,93.9,1.5,1.97,8.9,6,2.25
+ID04428,Male,24,Psychology,85.5,3.6,2.61,8.6,10,3.0
+ID03434,Male,18,Computer Science,100.0,1.9,2.69,8.8,10,2.65
+ID00962,Female,22,Business,69.8,10.5,3.13,5.9,6,3.25
+ID00451,Female,21,Economics,61.5,5.3,2.79,8.7,11,2.68
+ID01742,Female,21,Economics,51.7,1.6,3.09,7.2,8,2.61
+ID03858,Female,19,Engineering,77.1,9.8,2.32,7.2,7,2.79
+ID00784,Male,19,Economics,74.8,8.6,3.01,6.5,7,3.41
+ID02614,Female,18,Business,94.1,3.5,3.38,8.3,8,3.47
+ID00620,Female,24,Mathematics,84.4,1.4,3.52,7.8,4,3.75
+ID03969,Female,19,Mathematics,100.0,6.3,3.14,5.5,8,3.65
+ID04477,Male,20,Engineering,82.9,7.4,2.93,6.3,8,3.29
+ID04135,Female,23,Business,96.8,2.5,3.63,4.8,7,3.63
+ID00680,Female,24,Computer Science,100.0,0.5,2.96,7.7,9,3.21
+ID02327,Female,19,Mathematics,83.4,9.6,2.58,5.5,8,3.11
+ID02309,Male,24,Economics,83.9,4.7,3.14,4.0,11,3.5
+ID02612,Male,24,Mathematics,69.5,4.2,2.79,4.0,7,2.74
+ID04208,Male,24,Engineering,78.4,1.3,2.6,7.4,7,2.5
+ID04652,Female,23,Business,83.8,3.7,2.48,4.9,10,2.74
+ID04108,Male,20,Business,88.5,4.2,3.1,8.0,6,3.6
+ID02965,Female,22,Computer Science,63.7,2.6,3.65,7.4,12,3.81
+ID01113,Male,23,Engineering,88.8,4.5,2.98,6.6,10,3.3
+ID03372,Female,22,Engineering,100.0,1.0,2.9,5.4,8,2.96
+ID00497,Female,19,Computer Science,85.5,4.6,2.72,7.4,2,3.05
+ID02697,Female,24,Mathematics,94.4,3.8,3.78,4.0,7,3.9
+ID03121,Male,23,Psychology,67.0,5.7,3.4,9.4,5,3.52
+ID03070,Female,19,Computer Science,65.3,7.8,3.27,6.6,12,3.66
+ID02973,Female,20,Computer Science,94.7,2.1,3.33,8.7,9,3.49
+ID03983,Male,20,Economics,76.8,5.7,2.96,8.8,6,3.11
+ID01417,Male,18,Psychology,78.5,3.8,3.36,6.3,7,3.58
+ID04086,Male,21,Engineering,90.6,5.6,2.99,6.3,10,3.59
+ID03665,Female,21,Psychology,84.9,0.7,3.73,6.5,10,4.0
+ID02490,Male,19,Psychology,90.1,2.5,3.09,7.4,11,3.44
+ID04144,Female,21,Mathematics,56.5,9.8,2.85,6.5,2,2.86
+ID01378,Male,18,Computer Science,92.8,3.1,3.11,8.7,4,3.12
+ID01152,Female,24,Psychology,62.5,5.9,2.91,7.6,10,3.09
+ID00767,Female,24,Economics,63.6,12.5,2.48,5.3,6,2.86
+ID01717,Male,21,Computer Science,83.5,8.6,3.31,8.9,11,3.91
+ID04414,Female,23,Engineering,81.5,3.9,3.28,6.4,5,3.61
+ID03653,Female,22,Economics,86.6,2.0,3.09,8.6,7,3.04
+ID04322,Female,19,Computer Science,94.5,4.1,3.28,4.0,9,3.54
+ID03503,Female,22,Psychology,71.2,4.1,2.95,8.1,4,2.9
+ID01971,Male,20,Economics,83.5,3.7,3.22,6.6,8,3.49
+ID02142,Male,21,Psychology,93.1,2.7,2.82,5.2,7,3.17
+ID02791,Female,23,Engineering,100.0,11.4,3.2,7.5,8,3.88
+ID03472,Female,23,Computer Science,65.4,1.6,3.31,6.9,10,3.21
+ID03853,Female,19,Business,74.7,0.7,3.8,7.2,5,3.68
+ID02034,Female,21,Engineering,55.8,2.0,3.41,8.4,9,2.91
+ID00142,Male,21,Economics,97.4,10.3,2.89,6.1,7,3.37
+ID01659,Male,23,Computer Science,100.0,6.4,3.08,5.2,10,3.59
+ID03766,Male,24,Mathematics,96.9,3.8,2.88,6.7,5,3.29
+ID01111,Female,18,Mathematics,71.7,3.0,3.44,8.1,5,3.38
+ID04950,Female,22,Business,91.6,3.6,3.42,6.2,8,3.75
+ID02677,Male,22,Mathematics,97.7,4.0,2.98,5.4,10,3.29
+ID03128,Male,22,Psychology,44.4,3.4,3.27,8.1,8,2.84
+ID04878,Female,22,Psychology,62.1,5.4,2.86,6.2,8,3.14
+ID04350,Female,21,Mathematics,73.5,4.8,2.84,8.6,4,2.93
+ID01128,Male,23,Economics,74.1,4.0,3.95,6.2,10,3.95
+ID04829,Male,21,Engineering,100.0,1.6,2.54,6.0,8,2.96
+ID04412,Male,18,Computer Science,78.7,5.6,3.36,8.4,8,3.21
+ID00120,Male,23,Psychology,82.9,2.4,3.09,8.0,6,3.55
+ID02894,Female,20,Psychology,83.3,5.6,2.48,8.5,13,2.74
+ID02923,Female,20,Business,83.9,5.3,2.91,5.8,10,3.37
+ID00494,Male,22,Business,82.2,7.0,2.47,6.2,7,3.11
+ID02087,Male,24,Mathematics,69.3,3.1,3.77,6.2,1,3.72
+ID04366,Female,21,Engineering,85.4,1.4,2.53,7.2,8,2.69
+ID00276,Male,21,Mathematics,95.9,2.5,2.26,7.8,6,2.62
+ID01732,Female,18,Engineering,91.2,6.6,2.91,9.0,4,3.46
+ID04841,Female,23,Engineering,74.6,5.6,3.53,8.2,10,3.57
+ID02031,Male,20,Computer Science,95.3,2.0,3.07,6.3,3,3.39
+ID00656,Male,24,Mathematics,95.9,1.1,3.13,5.6,6,3.24
+ID02148,Male,24,Economics,97.1,5.8,2.97,5.3,13,3.22
+ID01745,Male,24,Business,97.4,4.4,3.02,5.9,11,3.32
+ID03088,Male,21,Psychology,72.5,3.8,3.72,7.3,10,3.75
+ID00615,Female,23,Psychology,96.7,3.3,3.14,6.7,14,3.56
+ID04651,Male,24,Business,81.6,1.4,3.41,8.3,9,3.37
+ID02627,Male,24,Psychology,81.4,13.9,2.96,5.5,5,3.89
+ID02855,Male,23,Computer Science,75.6,2.9,2.79,9.1,8,2.72
+ID04339,Male,23,Psychology,88.7,5.3,3.26,6.1,9,3.81
+ID01607,Male,22,Economics,79.9,2.3,4.0,8.6,11,3.96
+ID01772,Female,18,Business,74.8,3.4,2.6,7.6,10,2.51
+ID02774,Male,22,Psychology,85.5,2.3,3.82,8.1,11,3.94
+ID00606,Male,19,Engineering,76.7,3.9,2.93,7.2,8,3.01
+ID04415,Male,19,Economics,100.0,3.7,3.4,8.8,7,3.6
+ID04489,Female,21,Business,72.6,4.5,2.93,7.8,9,2.86
+ID01174,Male,22,Economics,85.6,7.0,3.9,7.6,7,4.0
+ID01843,Male,24,Engineering,61.3,2.5,3.02,7.5,13,3.18
+ID01213,Male,20,Mathematics,68.4,2.5,3.27,5.2,11,3.22
+ID00238,Male,22,Business,59.7,6.1,3.13,6.5,7,2.87
+ID03162,Male,18,Mathematics,84.4,6.5,2.78,8.2,11,2.96
+ID01242,Female,24,Engineering,100.0,9.6,3.04,9.8,2,3.61
+ID02105,Female,19,Computer Science,75.3,11.2,2.88,7.5,4,3.33
+ID04213,Male,24,Computer Science,71.5,2.1,3.14,5.6,9,2.96
+ID04711,Male,24,Economics,77.1,0.1,3.31,6.7,7,2.98
+ID04507,Female,23,Engineering,55.5,10.5,2.94,8.2,7,2.83
+ID04887,Male,21,Economics,89.2,3.3,3.54,6.4,9,4.0
+ID04416,Male,19,Mathematics,90.7,10.3,3.19,6.8,9,3.77
+ID02481,Male,24,Economics,87.1,1.6,3.58,4.0,8,3.76
+ID01231,Female,22,Psychology,99.8,4.4,3.86,7.6,7,4.0
+ID02173,Male,23,Computer Science,99.1,5.7,3.51,6.5,9,3.76
+ID01667,Male,23,Computer Science,92.4,4.9,3.14,8.0,6,3.56
+ID03921,Female,23,Engineering,76.2,3.6,2.76,6.1,6,2.77
+ID04083,Female,18,Psychology,91.7,2.9,3.85,6.4,5,4.0
+ID01400,Female,21,Psychology,75.3,4.9,2.96,5.6,10,2.89
+ID04666,Female,18,Economics,82.6,7.9,2.96,9.2,15,3.35
+ID03865,Male,22,Business,75.7,1.5,3.6,8.5,8,3.62
+ID00625,Female,24,Psychology,100.0,6.7,2.41,6.9,10,2.98
+ID01751,Male,19,Psychology,83.8,8.0,2.94,7.0,9,3.6
+ID02378,Female,19,Computer Science,79.3,2.5,2.84,6.9,10,2.8
+ID00057,Male,21,Engineering,69.1,14.0,2.89,8.0,7,3.56
+ID00338,Female,24,Economics,78.1,2.6,2.33,6.0,10,2.22
+ID03763,Male,18,Engineering,97.9,9.7,3.96,4.7,5,4.0
+ID01003,Female,20,Mathematics,78.5,2.2,2.82,9.7,4,2.52
+ID03736,Male,24,Business,84.3,1.6,2.56,6.8,13,2.82
+ID03438,Female,22,Business,66.9,3.2,2.75,7.0,7,2.68
+ID02632,Female,18,Computer Science,82.6,3.1,3.19,8.0,9,3.36
+ID03506,Female,23,Business,84.3,7.0,3.35,5.9,13,3.83
+ID02563,Male,23,Computer Science,90.7,4.6,3.84,5.8,10,4.0
+ID01314,Female,18,Economics,100.0,5.4,2.69,10.0,7,2.88
+ID04294,Female,22,Engineering,92.2,4.4,3.02,7.1,11,3.28
+ID04166,Male,23,Psychology,79.8,3.3,2.46,7.1,6,2.61
+ID03204,Female,20,Mathematics,88.8,9.8,3.06,8.5,7,3.65
+ID02865,Male,20,Economics,73.6,9.8,4.0,6.6,10,4.0
+ID04681,Male,18,Economics,100.0,3.1,2.81,5.9,9,3.08
+ID02294,Male,23,Computer Science,64.9,5.2,2.84,4.2,4,2.68
+ID03501,Male,22,Mathematics,74.1,3.2,3.23,5.1,4,3.18
+ID02755,Female,22,Mathematics,60.4,3.3,3.18,4.8,8,3.28
+ID00484,Female,22,Economics,90.4,1.7,2.86,6.9,12,3.03
+ID04709,Female,20,Engineering,96.9,9.6,2.83,5.9,12,3.5
+ID01063,Female,22,Engineering,99.6,3.7,3.23,7.8,11,3.67
+ID03320,Female,24,Psychology,95.6,6.2,2.41,8.6,4,2.67
+ID01970,Male,21,Psychology,88.4,6.5,3.1,6.2,9,3.51
+ID00703,Male,20,Engineering,100.0,5.8,2.69,7.2,10,3.12
+ID03652,Male,24,Economics,63.5,4.8,2.97,7.7,6,3.03
+ID03878,Female,19,Computer Science,70.9,1.5,3.03,7.6,10,3.0
+ID04879,Male,24,Engineering,100.0,5.5,2.49,6.1,6,3.11
+ID02751,Male,18,Engineering,100.0,9.6,3.27,7.6,7,3.99
+ID04024,Female,18,Mathematics,89.4,2.3,2.5,8.4,10,2.77
+ID00589,Male,24,Psychology,97.9,3.9,3.97,6.8,9,4.0
+ID00916,Male,21,Mathematics,77.6,9.7,2.46,8.6,7,2.66
+ID00253,Female,22,Mathematics,100.0,1.4,2.34,6.6,11,2.7
+ID04710,Female,20,Engineering,87.5,7.8,3.94,7.3,6,4.0
+ID01628,Male,20,Economics,99.2,8.3,3.2,4.8,8,3.68
+ID01266,Male,21,Psychology,83.4,4.2,3.59,8.0,6,3.92
+ID00478,Female,20,Business,68.5,1.0,3.48,6.7,1,3.26
+ID01582,Male,18,Business,84.8,4.2,2.57,7.4,10,2.86
+ID00546,Male,19,Business,100.0,4.1,3.08,7.3,10,3.25
+ID00946,Male,18,Mathematics,100.0,4.7,2.13,8.4,2,2.29
+ID02897,Male,24,Mathematics,66.6,3.0,2.41,4.1,5,2.37
+ID00603,Male,23,Mathematics,100.0,3.6,3.11,5.6,9,3.28
+ID03705,Female,23,Economics,81.6,3.1,2.6,4.0,12,2.9
+ID02201,Female,22,Engineering,81.6,4.7,2.66,6.9,6,3.08
+ID01816,Female,23,Computer Science,71.7,3.9,3.34,6.6,10,3.24
+ID01774,Female,20,Computer Science,89.4,3.3,3.37,10.0,5,3.72
+ID03208,Female,21,Mathematics,78.1,4.6,3.7,4.5,8,3.78
+ID03709,Male,24,Economics,92.6,2.8,3.43,8.4,7,3.78
+ID02492,Male,18,Psychology,100.0,5.6,2.88,5.8,16,2.87
+ID01229,Female,21,Economics,78.4,2.1,2.8,6.8,5,2.78
+ID00119,Female,21,Computer Science,91.9,2.2,3.11,8.8,5,3.44
+ID00630,Male,21,Mathematics,100.0,2.2,2.55,7.9,9,2.71
+ID03322,Male,23,Engineering,85.8,2.3,2.86,8.3,10,3.1
+ID01240,Male,19,Computer Science,65.4,1.0,3.54,6.9,10,3.49
+ID03345,Male,19,Economics,91.1,2.7,2.48,7.4,9,2.96
+ID03912,Male,24,Computer Science,88.3,3.2,3.21,6.7,8,3.7
+ID04572,Female,22,Business,99.9,4.7,2.78,6.8,7,3.09
+ID00207,Male,19,Computer Science,82.1,5.5,2.64,4.0,8,2.79
+ID01660,Male,21,Mathematics,100.0,5.7,3.27,5.8,8,3.63
+ID04330,Female,21,Mathematics,100.0,1.7,3.92,5.9,4,4.0
+ID01285,Male,21,Psychology,92.1,9.7,3.58,5.2,7,4.0
+ID04187,Male,22,Business,76.2,9.1,2.86,6.6,13,3.06
+ID04056,Male,22,Business,82.2,4.8,2.22,8.6,8,2.5
+ID02720,Male,18,Mathematics,67.9,1.9,3.21,4.8,11,3.01
+ID01567,Female,24,Economics,100.0,3.5,3.13,4.3,6,3.17
+ID03290,Male,18,Economics,89.7,1.4,2.23,7.1,6,2.31
+ID01507,Female,22,Economics,96.7,5.0,3.88,6.2,9,4.0
+ID00704,Male,24,Business,83.1,5.2,2.62,8.9,14,3.07
+ID01711,Male,18,Business,65.5,7.3,2.59,4.1,11,2.73
+ID02787,Female,21,Business,100.0,4.8,3.08,4.9,6,3.33
+ID03615,Male,18,Business,98.1,9.3,2.79,5.4,7,3.15
+ID00637,Male,22,Mathematics,86.8,2.9,2.63,9.3,10,2.95
+ID02592,Female,23,Economics,84.1,4.0,3.76,8.4,7,3.98
+ID01365,Female,19,Economics,100.0,5.1,3.42,8.2,7,3.77
+ID01779,Male,22,Computer Science,78.7,1.7,2.79,8.5,4,2.6
+ID04501,Female,22,Psychology,76.6,3.2,2.5,6.1,12,2.32
+ID03640,Male,20,Economics,83.0,4.9,3.16,7.3,9,3.57
+ID02456,Male,18,Psychology,78.0,8.1,3.34,8.0,7,3.42
+ID01299,Female,21,Engineering,82.3,3.5,3.17,6.8,7,3.33
+ID01770,Male,19,Business,100.0,5.3,2.37,4.2,13,2.64
+ID04061,Male,21,Psychology,100.0,8.6,2.48,8.3,6,2.99
+ID03161,Male,24,Business,80.1,9.9,3.23,6.3,6,3.86
+ID04529,Female,19,Mathematics,81.6,1.5,4.0,6.2,8,4.0
+ID02727,Male,18,Psychology,93.5,2.5,2.33,8.3,9,2.36
+ID04707,Female,18,Engineering,100.0,3.0,3.6,6.7,8,3.86
+ID00585,Female,22,Engineering,70.3,7.1,3.7,7.3,13,4.0
+ID01610,Male,22,Psychology,73.1,9.2,2.55,5.3,8,2.92
+ID02987,Male,18,Computer Science,72.7,5.5,3.34,6.3,9,3.32
+ID00223,Male,20,Psychology,91.8,6.5,2.4,6.8,4,2.92
+ID04805,Female,24,Psychology,85.3,1.3,2.53,6.6,7,2.83
+ID00809,Male,20,Economics,100.0,2.7,2.62,4.5,6,2.78
+ID01204,Male,20,Economics,86.8,13.6,2.41,7.9,4,3.14
+ID00177,Female,19,Economics,82.1,11.6,1.87,8.4,14,2.35
+ID03225,Male,22,Economics,90.2,4.1,3.79,4.0,6,4.0
+ID00082,Female,24,Computer Science,83.1,1.5,2.35,10.0,17,2.33
+ID00236,Female,19,Business,67.7,8.9,3.58,9.4,10,3.8
+ID03398,Female,19,Psychology,79.1,3.1,3.51,7.8,5,3.49
+ID00875,Male,20,Engineering,88.9,2.6,3.23,7.1,10,3.42
+ID00748,Male,21,Computer Science,97.0,5.9,3.47,4.4,10,3.74
+ID00974,Male,22,Mathematics,88.1,3.2,4.0,8.4,8,4.0
+ID00795,Male,18,Business,83.9,2.5,3.56,6.4,6,3.83
+ID03610,Female,18,Psychology,100.0,2.1,4.0,9.3,8,4.0
+ID00325,Female,20,Engineering,66.2,4.6,3.05,5.7,5,2.99
+ID00366,Male,23,Business,57.4,3.3,3.28,6.8,9,3.14
+ID04216,Female,22,Economics,68.7,3.9,4.0,4.0,4,3.81
+ID04026,Female,24,Psychology,87.3,3.8,3.68,6.9,6,4.0
+ID04603,Female,20,Business,100.0,6.9,2.75,4.0,9,3.27
+ID02478,Female,18,Business,73.0,5.4,3.22,9.1,8,3.33
+ID00140,Female,20,Psychology,100.0,3.1,3.02,6.0,5,3.23
+ID01438,Female,22,Business,100.0,5.5,3.56,8.6,4,3.78
+ID02233,Female,20,Economics,75.2,2.7,4.0,6.1,12,4.0
+ID04676,Female,24,Computer Science,77.5,4.8,3.22,6.5,6,3.46
+ID02681,Male,21,Mathematics,66.7,5.3,3.35,4.6,8,3.31
+ID02601,Female,20,Economics,76.8,4.4,3.2,6.7,10,3.21
+ID03103,Female,23,Business,100.0,1.1,3.03,9.0,10,3.19
+ID04830,Male,18,Business,86.1,11.1,3.38,5.8,3,3.95
+ID02551,Male,19,Economics,92.9,14.0,2.32,4.0,9,3.1
+ID03907,Male,18,Economics,87.2,2.6,3.45,9.0,6,3.73
+ID02330,Male,18,Economics,90.0,3.1,2.97,4.0,8,3.04
+ID01606,Male,22,Computer Science,69.2,1.5,2.72,4.9,8,2.65
+ID04907,Female,21,Business,100.0,5.9,3.43,6.3,10,3.89
+ID00893,Female,23,Mathematics,100.0,2.7,2.57,9.8,12,2.78
+ID04133,Female,18,Business,100.0,4.6,3.23,7.4,15,3.48
+ID00454,Female,24,Mathematics,70.1,2.3,2.41,7.6,12,2.55
+ID00901,Male,21,Business,63.1,5.1,2.31,7.6,7,2.32
+ID01679,Male,19,Psychology,78.8,3.2,3.36,8.1,8,3.28
+ID02869,Male,24,Business,100.0,3.8,2.98,9.3,9,3.25
+ID00854,Female,20,Psychology,73.0,4.0,2.5,7.2,6,2.73
+ID02357,Female,24,Mathematics,92.3,6.3,3.37,8.9,8,3.7
+ID00925,Male,18,Psychology,99.0,3.8,2.53,5.4,8,2.97
+ID00558,Male,21,Psychology,94.6,5.5,3.14,8.4,9,3.42
+ID00374,Female,22,Economics,100.0,5.5,2.44,8.1,11,2.9
+ID01176,Male,23,Engineering,91.9,14.0,2.54,7.1,13,3.48
+ID01771,Male,23,Mathematics,100.0,6.0,3.34,6.6,7,3.92
+ID03729,Male,24,Computer Science,68.9,4.3,2.81,7.5,7,2.98
+ID00185,Male,21,Mathematics,78.5,2.7,2.33,5.2,12,2.05
+ID00468,Female,20,Engineering,100.0,9.6,2.94,5.6,7,3.35
+ID04043,Male,20,Economics,87.0,3.0,3.34,7.1,8,3.49
+ID01550,Female,19,Computer Science,100.0,5.9,3.01,6.4,8,3.54
+ID00701,Male,21,Business,96.7,11.7,3.2,6.5,9,4.0
+ID01939,Male,19,Mathematics,66.3,9.1,3.17,6.6,10,3.47
+ID04718,Female,24,Mathematics,92.6,4.1,3.82,5.8,8,3.89
+ID04049,Female,19,Mathematics,99.7,5.4,3.04,7.3,4,3.33
+ID00401,Male,23,Economics,84.8,2.9,2.5,5.3,10,2.64
+ID03107,Female,18,Psychology,72.6,4.7,3.36,6.6,7,3.56
+ID00402,Female,24,Economics,68.4,4.5,3.76,6.1,5,3.74
+ID01164,Female,18,Psychology,73.4,4.0,2.51,5.2,3,2.58
+ID04984,Female,22,Mathematics,100.0,3.9,3.12,4.4,5,3.56
+ID04387,Female,20,Computer Science,76.2,2.8,3.22,6.5,4,3.1
+ID04891,Male,24,Business,100.0,5.2,3.16,7.1,5,3.38
+ID00538,Male,19,Mathematics,87.4,5.3,3.51,8.5,7,3.9
+ID00549,Male,21,Mathematics,83.2,5.2,2.78,7.7,10,3.33
+ID03209,Male,19,Economics,100.0,5.0,2.63,8.4,7,2.87
+ID02208,Female,20,Mathematics,100.0,10.7,2.8,10.0,4,3.27
+ID02288,Male,21,Mathematics,99.6,8.3,3.01,4.3,4,3.67
+ID04661,Male,23,Engineering,96.5,0.7,3.81,9.1,8,3.7
+ID04190,Female,18,Computer Science,76.4,7.4,3.26,7.2,4,3.59
+ID03581,Male,23,Engineering,66.7,1.2,3.78,7.0,7,3.59
+ID01746,Male,18,Engineering,89.8,0.5,2.8,5.5,10,2.82
+ID04431,Female,24,Computer Science,100.0,4.6,3.41,5.4,10,3.7
+ID00527,Male,21,Computer Science,99.6,2.5,3.26,8.4,8,3.37
+ID01265,Male,18,Engineering,93.4,1.9,3.34,6.7,6,3.7
+ID01172,Female,20,Economics,78.0,7.8,3.69,6.2,12,3.83
+ID03873,Male,24,Economics,87.4,6.3,3.38,7.6,9,3.9
+ID03006,Female,22,Computer Science,65.4,3.7,1.96,4.5,7,1.78
+ID00979,Male,21,Computer Science,89.4,7.5,3.4,8.3,8,3.75
+ID02054,Female,19,Engineering,89.0,9.8,2.96,7.8,6,3.61
+ID00041,Male,21,Business,99.7,4.8,2.96,4.1,10,3.05
+ID02641,Male,21,Economics,79.4,8.2,3.22,8.6,11,3.43
+ID00092,Female,22,Engineering,70.2,1.9,2.74,7.4,1,2.55
+ID04526,Male,21,Psychology,51.2,7.0,3.54,8.2,10,3.52
+ID01227,Male,19,Mathematics,88.2,6.7,3.77,8.3,5,4.0
+ID03808,Male,19,Psychology,100.0,6.4,2.74,8.4,8,3.04
+ID03262,Male,19,Mathematics,100.0,4.7,3.09,6.8,5,3.63
+ID03392,Female,22,Economics,83.9,3.7,3.28,7.9,5,3.48
+ID03534,Male,24,Psychology,85.9,5.0,2.27,4.9,8,2.43
+ID01929,Female,18,Business,100.0,6.5,2.59,4.9,5,3.12
+ID04260,Male,18,Business,63.2,1.1,2.73,9.3,9,2.61
+ID01657,Female,22,Mathematics,100.0,7.0,3.47,4.9,8,3.79
+ID02449,Male,23,Economics,96.0,9.7,2.83,6.6,10,3.36
+ID03298,Male,22,Psychology,99.9,3.0,2.17,9.9,10,2.34
+ID00274,Female,23,Business,98.7,1.0,3.5,6.1,4,3.69
+ID03659,Female,18,Business,92.7,4.8,2.77,7.9,10,3.26
+ID04508,Male,19,Mathematics,76.4,6.2,3.05,9.5,7,3.31
+ID02135,Female,21,Computer Science,96.3,2.1,3.46,9.3,16,3.22
+ID00674,Male,18,Business,64.8,7.3,2.91,5.8,6,3.15
+ID00659,Female,24,Business,81.0,4.0,2.75,5.9,13,2.83
+ID00649,Female,18,Mathematics,88.1,6.1,2.75,6.3,7,3.12
+ID02435,Female,18,Mathematics,100.0,8.8,2.94,9.0,7,3.5
+ID00816,Male,20,Economics,57.4,1.3,3.06,8.0,15,2.74
+ID04791,Male,23,Economics,100.0,4.5,3.07,8.7,5,3.52
+ID02508,Male,19,Engineering,88.8,7.4,3.88,7.8,8,4.0
+ID01081,Female,20,Mathematics,59.2,2.7,4.0,5.6,9,3.5
+ID03990,Female,23,Mathematics,74.9,2.5,3.04,5.4,9,2.72
+ID00048,Male,19,Computer Science,81.0,4.5,3.7,9.1,5,3.9
+ID01872,Male,23,Psychology,56.2,4.7,2.83,5.6,11,2.5
+ID01729,Female,22,Economics,57.3,4.1,3.31,6.7,8,2.99
+ID03127,Female,22,Business,90.8,3.9,3.76,5.1,6,4.0
+ID02153,Female,22,Computer Science,65.3,2.5,3.25,7.7,5,3.1
+ID01349,Female,20,Mathematics,72.5,2.6,2.38,7.1,6,2.28
+ID04557,Female,18,Psychology,76.2,3.7,2.06,6.8,7,2.2
+ID00169,Male,19,Economics,90.1,2.9,3.21,7.2,11,3.35
+ID00272,Female,21,Business,80.1,4.8,3.16,5.3,8,3.54
+ID03974,Female,20,Mathematics,75.8,7.0,3.28,8.0,6,3.33
+ID00690,Male,18,Economics,100.0,6.7,3.08,7.4,9,3.73
+ID03284,Female,19,Mathematics,75.9,7.0,3.6,7.1,8,3.95
+ID00820,Male,22,Engineering,89.2,1.8,2.39,7.0,4,2.77
+ID01177,Female,22,Engineering,74.3,6.3,2.83,6.2,6,2.83
+ID04767,Female,23,Business,78.2,3.5,2.7,8.5,7,2.52
+ID01393,Male,24,Mathematics,62.6,1.7,2.92,8.0,12,3.01
+ID00427,Male,24,Computer Science,100.0,3.0,2.52,6.2,9,2.63
+ID01947,Male,19,Psychology,58.9,1.0,2.1,7.7,6,1.65
+ID02352,Female,21,Computer Science,75.8,7.6,3.07,6.4,11,3.25
+ID01760,Male,22,Mathematics,75.0,5.4,3.44,7.6,12,3.63
+ID00544,Female,18,Computer Science,90.5,2.1,2.93,6.7,6,3.33
+ID03415,Female,23,Economics,97.2,2.6,2.79,9.1,11,3.0
+ID00247,Male,21,Economics,83.0,3.4,3.32,7.5,9,3.69
+ID02566,Male,18,Computer Science,100.0,5.2,4.0,7.4,7,4.0
+ID03019,Male,24,Engineering,91.3,2.2,3.1,9.0,6,3.21
+ID01864,Male,21,Business,74.4,4.1,3.48,7.0,3,3.72
+ID01199,Female,18,Psychology,86.9,7.9,3.3,6.8,7,3.89
+ID03411,Male,21,Psychology,100.0,9.8,3.55,8.5,4,4.0
+ID02304,Male,20,Engineering,98.5,2.1,2.58,6.6,8,2.68
+ID03100,Male,18,Engineering,96.9,4.9,3.58,6.8,3,3.81
+ID00158,Female,19,Engineering,97.0,5.2,3.05,8.6,8,3.18
+ID02732,Male,18,Mathematics,85.3,6.0,2.63,6.1,6,3.06
+ID01526,Male,23,Mathematics,93.1,3.1,3.43,6.0,6,3.69
+ID02669,Female,19,Business,100.0,2.9,3.01,7.1,8,3.43
+ID03641,Male,19,Business,71.2,1.3,2.82,5.0,5,2.73
+ID01959,Female,23,Mathematics,76.5,1.9,3.35,8.1,5,3.34
+ID04726,Male,22,Mathematics,72.1,4.0,2.77,4.4,7,2.54
+ID03195,Male,18,Mathematics,81.1,2.8,3.31,6.9,5,3.75
+ID03417,Male,22,Business,65.9,12.0,3.93,7.5,6,4.0
+ID02428,Female,19,Computer Science,100.0,6.5,2.73,5.4,7,2.96
+ID03748,Male,18,Business,92.6,5.1,2.63,7.7,4,2.87
+ID02345,Female,18,Business,100.0,3.5,3.04,7.8,8,3.41
+ID00712,Female,19,Psychology,81.6,1.1,3.71,8.7,9,3.88
+ID00225,Male,20,Economics,71.6,3.3,3.04,9.3,8,3.03
+ID00126,Male,23,Economics,89.4,2.9,3.23,4.5,4,3.41
+ID01793,Male,18,Psychology,89.7,2.9,2.9,5.5,10,3.1
+ID04903,Male,20,Psychology,77.8,4.4,3.47,8.6,6,3.41
+ID01341,Male,24,Business,96.1,1.7,2.13,6.7,11,2.56
+ID02434,Male,20,Psychology,96.6,3.4,3.42,9.6,6,3.57
+ID02673,Female,22,Business,84.4,4.6,2.32,9.4,6,2.47
+ID01718,Female,24,Business,100.0,3.0,2.45,5.7,9,2.53
+ID04114,Male,24,Economics,70.1,3.4,2.86,7.0,3,2.77
+ID03062,Male,19,Mathematics,70.3,3.7,2.56,4.6,5,2.35
+ID03330,Female,22,Economics,90.6,6.7,3.14,8.4,9,3.33
+ID00899,Male,19,Economics,72.8,3.3,3.38,7.2,10,3.23
+ID01786,Female,21,Computer Science,74.3,5.1,2.67,5.3,6,2.69
+ID01312,Female,24,Psychology,63.9,8.0,2.97,5.8,12,3.14
+ID04063,Female,20,Psychology,60.6,1.1,2.2,6.5,6,2.03
+ID04148,Male,21,Computer Science,91.8,4.2,1.82,6.7,13,2.12
+ID04299,Male,22,Computer Science,85.5,4.4,2.05,6.3,5,2.52
+ID00309,Female,22,Engineering,94.9,2.2,3.8,7.7,8,4.0
+ID00897,Male,18,Economics,98.8,4.0,2.9,7.3,8,3.36
+ID01712,Male,24,Mathematics,63.1,2.4,3.84,6.4,6,3.86
+ID02413,Male,21,Economics,80.4,6.4,2.61,9.3,5,2.82
+ID01556,Male,18,Psychology,100.0,4.6,2.57,6.1,9,2.89
+ID02268,Female,18,Psychology,64.9,4.5,3.57,8.3,8,3.43
+ID00610,Female,18,Psychology,91.2,4.2,3.96,6.1,5,4.0
+ID02699,Female,23,Business,75.4,2.2,1.9,10.0,8,1.63
+ID00356,Female,19,Economics,100.0,0.7,3.09,7.3,4,3.32
+ID02978,Male,19,Economics,94.9,4.3,2.96,8.6,11,3.09
+ID01467,Female,23,Economics,82.7,10.3,3.68,5.6,7,4.0
+ID00059,Male,21,Economics,83.3,2.6,2.88,7.5,5,3.07
+ID03745,Male,18,Computer Science,100.0,3.1,4.0,4.8,5,4.0
+ID02775,Male,23,Computer Science,79.8,2.3,3.67,6.8,6,3.66
+ID04727,Female,19,Business,75.9,10.6,3.51,7.3,9,3.8
+ID01390,Male,19,Economics,67.0,2.8,2.11,5.6,4,2.06
+ID03648,Male,21,Economics,99.0,2.4,2.31,7.9,8,2.49
+ID00061,Male,22,Engineering,70.4,2.7,2.89,5.5,9,2.88
+ID02017,Male,19,Engineering,99.9,6.0,3.23,7.4,8,3.85
+ID01157,Male,19,Engineering,92.4,3.2,3.35,8.3,13,3.52
+ID00204,Female,22,Mathematics,62.7,6.2,2.52,8.2,3,2.44
+ID04246,Female,21,Computer Science,77.9,3.9,3.82,9.5,6,3.61
+ID01504,Male,19,Mathematics,74.9,8.0,3.85,7.3,10,3.91
+ID00266,Female,24,Psychology,91.7,3.5,3.67,4.2,9,4.0
+ID00968,Male,22,Engineering,81.9,6.5,3.39,5.3,9,3.69
+ID02903,Male,24,Psychology,98.1,2.1,3.1,5.4,12,3.35
+ID01888,Male,21,Computer Science,68.4,4.6,3.13,9.4,8,2.91
+ID01057,Female,19,Mathematics,100.0,5.2,4.0,7.0,8,4.0
+ID01684,Female,22,Engineering,83.7,8.4,3.0,6.8,5,3.51
+ID03389,Male,21,Mathematics,89.6,2.7,3.21,6.4,6,3.41
+ID01814,Male,18,Psychology,100.0,4.6,2.54,7.2,11,2.82
+ID01477,Female,18,Psychology,100.0,7.8,2.12,6.5,11,2.81
+ID04686,Male,20,Computer Science,94.4,3.8,3.53,6.4,6,4.0
+ID01492,Male,19,Computer Science,82.7,4.5,3.19,8.7,10,3.61
+ID03360,Female,18,Economics,100.0,7.1,2.96,5.6,8,3.36
+ID04235,Male,20,Psychology,91.0,4.5,3.18,7.9,5,3.52
+ID02448,Male,19,Engineering,100.0,3.4,3.59,6.5,13,3.86
+ID00598,Male,22,Economics,83.4,3.4,2.72,7.0,7,2.98
+ID00322,Female,22,Mathematics,100.0,2.4,2.32,8.4,4,2.43
+ID02969,Female,24,Mathematics,72.9,6.3,3.2,7.1,5,3.35
+ID00591,Male,20,Business,80.8,5.4,2.74,9.6,6,2.98
+ID04389,Male,21,Economics,60.9,2.4,3.64,8.5,11,3.39
+ID00528,Male,19,Economics,90.5,2.2,3.2,9.0,7,3.21
+ID03913,Male,18,Economics,58.9,1.9,2.02,5.2,4,1.72
+ID01903,Female,20,Economics,100.0,5.8,3.22,6.3,5,3.49
+ID03734,Male,21,Economics,68.3,3.7,3.45,7.0,7,3.44
+ID00826,Female,22,Economics,79.3,6.7,3.13,5.5,8,3.34
+ID00125,Male,19,Psychology,79.6,12.5,3.79,8.5,11,4.0
+ID03697,Female,18,Mathematics,68.2,3.6,3.37,7.4,7,3.25
+ID02147,Male,23,Mathematics,94.4,7.4,2.48,9.5,4,2.79
+ID01141,Female,19,Economics,92.9,2.1,3.1,5.2,4,3.28
+ID00230,Female,24,Computer Science,77.2,4.9,2.45,8.8,4,2.64
+ID02890,Female,20,Mathematics,100.0,1.5,3.56,6.1,8,3.94
+ID01230,Male,20,Engineering,68.3,1.5,2.22,8.7,9,2.0
+ID03359,Female,21,Economics,90.0,1.8,2.82,7.6,11,2.99
+ID03629,Female,19,Mathematics,100.0,2.8,2.43,8.3,9,2.68
+ID00553,Female,21,Computer Science,87.5,3.3,3.32,6.4,11,3.44
+ID04258,Male,20,Economics,85.6,2.8,2.39,6.3,6,2.7
+ID02804,Female,20,Mathematics,95.8,3.1,4.0,7.5,8,4.0
+ID02446,Male,22,Economics,64.5,2.9,3.07,5.0,4,2.92
+ID01198,Female,23,Engineering,100.0,6.2,3.29,7.6,5,3.73
+ID00699,Male,21,Business,89.9,2.7,3.83,6.4,10,4.0
+ID02690,Male,23,Business,90.9,2.0,3.53,6.0,5,3.61
+ID00010,Female,24,Economics,73.7,4.1,2.89,5.5,3,3.01
+ID04747,Male,22,Mathematics,74.4,7.5,2.68,5.9,7,2.92
+ID04968,Female,20,Economics,99.3,1.0,3.33,5.2,12,3.6
+ID04630,Male,23,Engineering,54.6,3.1,2.91,5.8,5,2.68
+ID00037,Male,23,Engineering,93.5,4.2,2.51,7.1,7,2.71
+ID02982,Male,19,Psychology,100.0,4.9,3.75,7.0,5,4.0
+ID01469,Female,24,Business,86.5,3.1,2.3,6.2,12,2.44
+ID02112,Male,19,Computer Science,89.7,8.9,2.73,10.0,7,3.42
+ID01693,Male,19,Psychology,60.7,2.1,3.02,6.0,11,3.06
+ID01420,Female,23,Psychology,98.4,1.4,2.77,6.7,7,3.08
+ID03327,Female,20,Computer Science,83.9,3.8,2.76,6.8,11,3.11
+ID04239,Female,20,Computer Science,100.0,6.8,3.43,7.3,4,3.84
+ID02659,Male,24,Engineering,93.3,4.9,3.07,6.6,11,3.49
+ID02672,Male,20,Business,64.1,3.6,2.29,7.7,5,2.51
+ID01233,Male,22,Business,98.8,5.9,3.5,5.6,8,4.0
+ID02671,Female,21,Computer Science,75.0,10.9,3.15,5.6,9,3.37
+ID00351,Male,19,Psychology,94.3,4.0,3.29,6.1,5,3.77
+ID02523,Male,21,Economics,81.6,5.2,2.73,6.0,5,3.05
+ID01798,Male,22,Business,84.6,1.4,3.16,6.8,9,3.57
+ID03097,Female,21,Mathematics,75.4,2.5,2.72,7.2,6,2.59
+ID04292,Male,22,Computer Science,85.0,4.3,4.0,7.9,3,4.0
+ID04533,Male,21,Mathematics,84.6,4.6,2.47,5.8,13,2.85
+ID04426,Male,22,Business,96.5,7.3,2.82,9.3,9,3.04
+ID03110,Female,19,Business,46.7,3.0,4.0,7.0,7,3.58
+ID00536,Female,18,Business,100.0,2.3,2.32,6.7,12,2.78
+ID03124,Male,20,Mathematics,85.7,2.0,3.59,9.6,8,3.66
+ID02052,Male,21,Engineering,92.9,4.4,3.34,6.9,9,3.71
+ID02819,Male,18,Engineering,71.8,1.2,4.0,6.8,6,4.0
+ID01906,Male,21,Economics,70.9,7.7,3.4,7.5,10,3.68
+ID00573,Male,20,Engineering,66.6,3.7,3.58,6.0,7,3.64
+ID03612,Male,20,Engineering,77.1,3.6,4.0,5.3,6,4.0
+ID01335,Female,19,Mathematics,83.8,9.3,3.19,5.9,4,3.88
+ID00234,Male,21,Psychology,100.0,1.5,3.16,5.7,11,3.4
+ID01535,Male,20,Business,99.4,1.4,3.58,8.7,13,3.57
+ID02340,Male,18,Mathematics,78.3,1.5,3.91,7.4,13,3.8
+ID02240,Male,21,Mathematics,100.0,5.5,3.08,7.5,8,3.34
+ID03848,Female,19,Mathematics,83.6,2.6,2.14,4.4,6,2.44
+ID01147,Female,21,Mathematics,70.3,7.6,3.46,7.8,5,3.7
+ID04435,Male,21,Psychology,80.4,1.9,2.74,8.2,10,2.73
+ID04618,Female,19,Engineering,84.2,2.8,3.6,9.0,7,3.72
+ID04058,Male,18,Mathematics,96.8,9.6,4.0,6.8,8,4.0
+ID00013,Female,20,Psychology,82.7,6.0,2.4,7.1,9,2.75
+ID02526,Male,18,Psychology,100.0,1.1,2.56,6.0,5,2.95
+ID01634,Female,19,Psychology,67.4,8.5,3.5,7.3,7,3.58
+ID04654,Female,18,Economics,89.0,2.7,2.9,5.0,8,2.89
+ID03236,Male,20,Business,91.6,1.1,2.99,6.2,9,3.38
+ID02324,Male,19,Business,87.8,2.0,3.54,8.2,7,3.59
+ID03591,Female,22,Psychology,60.8,4.0,2.51,10.0,10,2.47
+ID01187,Female,21,Mathematics,59.4,5.2,3.43,6.7,7,3.32
+ID02405,Female,19,Engineering,88.2,5.4,2.46,6.8,5,2.94
+ID04137,Female,20,Economics,92.9,3.2,2.56,7.4,9,2.67
+ID04169,Male,18,Business,100.0,4.5,3.92,6.8,7,4.0
+ID00430,Male,20,Economics,100.0,1.7,2.41,7.2,6,2.53
+ID04261,Male,21,Computer Science,86.7,5.4,3.13,6.2,6,3.62
+ID03970,Male,23,Computer Science,80.5,3.4,3.14,8.9,9,3.53
+ID00545,Female,24,Computer Science,73.1,8.0,3.57,5.9,8,3.54
+ID03025,Male,24,Economics,84.0,5.6,2.72,7.2,12,3.32
+ID01681,Male,24,Mathematics,56.6,2.6,3.61,5.7,6,3.35
+ID03317,Male,20,Psychology,75.1,2.1,3.9,5.9,8,3.95
+ID02348,Male,18,Mathematics,59.1,3.2,2.63,10.0,8,2.43
+ID03233,Male,20,Mathematics,69.3,2.3,3.0,5.9,9,2.7
+ID03605,Male,20,Mathematics,73.1,3.9,2.01,7.5,12,2.05
+ID00413,Female,24,Mathematics,88.3,1.2,2.96,8.8,13,3.19
+ID02971,Male,21,Economics,80.7,3.0,3.3,5.9,12,3.55
+ID01258,Male,21,Business,76.3,1.9,3.04,4.0,3,2.8
+ID03175,Male,19,Engineering,94.3,7.5,3.46,6.9,5,3.86
+ID01362,Male,18,Business,85.8,1.5,3.65,8.1,4,3.69
+ID01961,Male,18,Computer Science,89.4,5.0,3.58,7.3,9,3.85
+ID04973,Male,22,Business,80.7,4.3,3.06,8.5,8,3.13
+ID01138,Male,24,Business,58.6,3.6,3.18,6.3,15,2.79
+ID03379,Male,21,Business,93.4,5.6,3.65,7.1,6,4.0
+ID02529,Male,22,Engineering,73.5,8.2,3.55,4.6,8,3.72
+ID04480,Female,19,Economics,72.6,6.9,3.2,7.5,6,3.21
+ID03074,Male,18,Computer Science,88.9,9.7,2.54,9.1,7,3.0
+ID03973,Male,19,Psychology,93.3,2.2,2.93,9.3,4,3.02
+ID02564,Male,21,Engineering,93.6,7.4,3.44,4.9,8,3.77
+ID00939,Male,19,Mathematics,78.1,6.7,3.57,8.6,14,3.66
+ID00397,Female,24,Economics,72.4,2.5,3.02,7.8,9,2.88
+ID03426,Female,18,Psychology,94.4,10.6,3.66,7.0,7,4.0
+ID00200,Female,21,Business,89.4,7.6,2.98,7.0,11,3.69
+ID02075,Female,19,Mathematics,84.5,9.6,3.95,9.4,5,4.0
+ID02847,Female,18,Economics,80.4,3.1,2.63,5.7,8,2.74
+ID01034,Male,23,Economics,84.7,3.0,3.18,7.9,3,3.62
+ID03338,Female,19,Economics,90.8,7.4,2.53,5.1,7,3.04
+ID00354,Male,24,Engineering,62.1,3.7,3.32,4.0,6,3.4
+ID00599,Male,19,Economics,58.6,4.3,2.35,8.0,3,2.1
+ID02570,Female,18,Business,54.6,2.4,3.37,7.5,12,2.86
+ID00852,Female,24,Psychology,81.6,2.6,3.65,6.9,3,4.0
+ID01543,Female,21,Computer Science,80.0,4.5,2.76,9.4,10,3.23
+ID02394,Male,22,Business,87.7,7.5,2.95,4.2,8,3.28
+ID01576,Male,23,Mathematics,88.3,5.0,3.85,7.0,9,4.0
+ID03094,Female,19,Mathematics,88.9,1.3,2.75,4.5,8,2.79
+ID04579,Female,18,Economics,71.3,2.9,3.6,5.7,7,3.3
+ID04395,Female,24,Economics,52.6,5.9,3.65,6.1,5,3.4
+ID00737,Male,24,Computer Science,68.8,3.3,3.36,6.0,6,3.27
+ID00232,Male,19,Computer Science,100.0,5.0,3.36,7.4,3,3.67
+ID00109,Male,21,Economics,88.6,8.1,3.1,8.4,11,3.39
+ID01037,Male,19,Economics,68.4,0.3,2.86,4.0,8,2.74
+ID04871,Male,22,Mathematics,97.0,3.2,3.3,8.3,7,3.58
+ID02117,Male,21,Business,90.2,6.1,3.32,5.4,12,3.53
+ID03847,Female,21,Engineering,100.0,2.4,3.28,8.5,8,3.38
+ID03962,Male,19,Computer Science,86.4,4.6,3.44,8.7,9,3.82
+ID04406,Female,24,Engineering,82.5,3.7,3.53,8.6,9,3.96
+ID03037,Male,23,Computer Science,89.5,7.1,3.52,7.9,10,4.0
+ID00287,Male,18,Computer Science,93.6,8.7,3.43,7.3,8,4.0
+ID01249,Female,18,Computer Science,78.4,2.7,2.88,6.9,11,2.87
+ID01091,Female,23,Business,94.9,1.3,3.46,4.0,6,3.52
+ID01654,Male,18,Computer Science,81.1,0.8,2.82,9.3,8,2.76
+ID04794,Male,18,Mathematics,90.6,7.2,2.67,6.8,12,3.1
+ID02882,Female,24,Engineering,65.5,2.2,2.81,7.3,7,2.77
+ID00906,Female,20,Computer Science,67.6,4.7,2.97,5.1,7,3.12
+ID01410,Female,22,Mathematics,99.9,3.6,2.93,7.2,6,3.14
+ID04687,Male,22,Mathematics,100.0,4.1,3.19,5.4,10,3.39
+ID02620,Male,24,Engineering,91.6,1.4,2.91,7.5,10,3.22
+ID03063,Female,20,Psychology,81.4,3.4,2.91,7.1,9,3.13
+ID00910,Male,20,Mathematics,87.2,3.6,3.56,9.8,16,3.64
+ID01960,Female,20,Business,92.7,5.2,3.17,8.6,7,3.65
+ID04237,Male,20,Psychology,100.0,8.0,2.68,8.1,12,3.03
+ID00580,Male,22,Computer Science,89.2,7.5,3.48,6.6,7,4.0
+ID01163,Male,20,Computer Science,100.0,4.7,4.0,5.9,6,4.0
+ID02382,Female,21,Engineering,60.1,2.2,3.68,8.7,3,3.49
+ID00950,Female,19,Business,90.0,5.8,2.69,8.4,9,2.99
+ID00437,Male,23,Engineering,78.1,7.1,3.09,9.3,7,3.03
+ID02765,Male,18,Mathematics,72.9,3.1,3.19,8.4,7,3.25
+ID00317,Male,23,Psychology,100.0,3.0,3.53,7.5,7,3.86
+ID00429,Male,24,Business,100.0,2.5,2.39,4.5,5,2.38
+ID03226,Female,24,Engineering,79.9,2.6,3.88,7.3,12,3.83
+ID00278,Female,21,Mathematics,100.0,5.7,2.82,8.4,5,3.14
+ID01322,Male,20,Business,83.5,1.3,3.27,8.0,7,3.32
+ID00664,Male,23,Business,99.9,3.1,2.29,6.8,9,2.78
+ID03708,Male,24,Economics,100.0,11.6,2.83,7.5,5,3.37
+ID02507,Female,22,Computer Science,100.0,3.2,2.53,8.3,11,2.87
+ID00432,Female,23,Economics,100.0,3.9,3.66,8.8,11,3.72
+ID04167,Male,22,Engineering,94.7,3.7,2.28,6.8,12,2.58
+ID02663,Male,24,Mathematics,100.0,5.0,2.72,6.4,8,3.13
+ID02063,Female,20,Engineering,83.8,6.6,3.08,5.0,11,3.38
+ID02960,Female,20,Psychology,85.5,6.2,3.5,9.6,11,3.91
+ID03061,Male,18,Mathematics,51.0,5.0,3.37,5.4,6,3.02
+ID04111,Female,23,Mathematics,100.0,1.3,3.53,6.0,9,3.93
+ID00371,Male,18,Business,100.0,4.8,2.22,10.0,8,2.59
+ID03649,Female,24,Economics,95.5,4.7,2.73,5.5,5,2.92
+ID04110,Female,22,Engineering,62.1,4.1,2.7,6.5,9,2.86
+ID02083,Male,22,Mathematics,85.5,2.9,3.39,6.1,4,3.53
+ID01171,Female,22,Computer Science,65.3,3.0,2.76,8.3,8,2.71
+ID03181,Male,24,Psychology,93.2,6.0,2.38,7.1,9,2.98
+ID03821,Male,22,Mathematics,71.5,1.6,3.23,7.9,9,3.12
+ID03943,Male,23,Engineering,79.5,6.0,3.12,6.4,12,3.11
+ID04027,Male,18,Engineering,92.4,5.6,3.11,5.7,5,3.42

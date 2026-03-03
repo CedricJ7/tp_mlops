@@ -1,0 +1,15 @@
+[
+  {
+    "timestamp": "2026-02-27T11:22:19.481918",
+    "duration_seconds": 21.02,
+    "best_params": {
+      "model__max_depth": 10,
+      "model__min_samples_split": 2,
+      "model__n_estimators": 100
+    },
+    "metrics": {
+      "mae_cv_train": 0.1035,
+      "mae_valid": 0.1039
+    }
+  }
+]

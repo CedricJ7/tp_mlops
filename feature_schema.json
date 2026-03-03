@@ -1,0 +1,57 @@
+{
+  "target": {
+    "name": "Final_CGPA",
+    "type": "float",
+    "description": "Note finale (CGPA)",
+    "range": [1.16, 4.0]
+  },
+  "features": {
+    "Gender": {
+      "type": "categorical",
+      "allowed_values": ["Male", "Female"],
+      "description": "Genre de l'étudiant"
+    },
+    "Age": {
+      "type": "int",
+      "description": "Âge de l'étudiant",
+      "range": [18, 24]
+    },
+    "Major": {
+      "type": "categorical",
+      "allowed_values": [
+        "Economics",
+        "Business",
+        "Mathematics",
+        "Psychology",
+        "Engineering",
+        "Computer Science"
+      ],
+      "description": "Filière de l'étudiant"
+    },
+    "Attendance_Pct": {
+      "type": "float",
+      "description": "Taux de présence en cours (%)",
+      "range": [0.0, 100.0]
+    },
+    "Study_Hours_Per_Day": {
+      "type": "float",
+      "description": "Heures de travail personnel par jour",
+      "range": [0.0, 24.0]
+    },
+    "Previous_GPA": {
+      "type": "float",
+      "description": "GPA de l'année précédente",
+      "range": [0.0, 4.0]
+    },
+    "Sleep_Hours": {
+      "type": "float",
+      "description": "Heures de sommeil par nuit",
+      "range": [0.0, 24.0]
+    },
+    "Social_Hours_Week": {
+      "type": "int",
+      "description": "Heures d'activités sociales par semaine",
+      "range": [0, 168]
+    }
+  }
+}

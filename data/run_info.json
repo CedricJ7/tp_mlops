@@ -1,0 +1,20 @@
+{
+    "dataset": "Student_data.csv",
+    "shape": {
+        "rows": 5000,
+        "columns": 10
+    },
+    "target": "Final_CGPA",
+    "split_fractions": {
+        "train": 0.7,
+        "valid": 0.15,
+        "test": 0.15
+    },
+    "random_state": 42,
+    "stratify": "quantile bins (q=5) on target \u2014 bins used only for splitting",
+    "split_sizes": {
+        "train": 3500,
+        "valid": 750,
+        "test": 750
+    }
+}
