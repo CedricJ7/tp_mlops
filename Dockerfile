@@ -19,7 +19,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Exposer le port (8000 pour FastAPI, 8501 pour Streamlit)
-EXPOSE 8000
+EXPOSE 8000 8501
 
 # Commande de lancement (adapter selon l'app : fastapi ou streamlit)
-CMD streamlit run app.py --server.port 8501
+CMD uvicorn api:app --reload && streamlit run app.py --server.port 8501
