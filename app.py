@@ -9,12 +9,30 @@ import os
 
 st.set_page_config(page_title="TP IA — Student CGPA", layout="wide")
 
+api_url = "http://localhost:8000/predict"
+
+
 # Load dataset for UI helpers
-DATA_PATH = os.path.join("data", "Student_data.csv")
-if os.path.exists(DATA_PATH):
-    data = pd.read_csv(DATA_PATH)
-else:
+try:
+    response = requests.get("http://localhost:8000/data")
+    if response.status_code == 200:
+        res_json = response.json()
+        if isinstance(res_json, list):
+            data = pd.DataFrame(res_json)
+        else:
+            data = None
+    else:
+        data = None
+except:
     data = None
+
+# Fallback sur le CSV local si l'API ne renvoie pas une liste valide à enlever
+# if not isinstance(data, pd.DataFrame):
+#     DATA_PATH = os.path.join("data", "Student_data.csv")
+#     if os.path.exists(DATA_PATH):
+#         data = pd.read_csv(DATA_PATH)
+#     else:
+#         data = None
 
 # Sidebar navigation
 st.sidebar.title("Navigation")
@@ -22,7 +40,7 @@ page = st.sidebar.radio("Aller à", ["Rapport", "Prédictions"])
 
 if page == "Rapport":
     st.title("Rapport d'analyse exploratoire")
-    report_path = "rapport_analyse_exploratoire.html"
+    report_path = "rapport_analyse_exploratoire.html" # à remplacer par une génération du rapport au lancement de l'app 
     if os.path.exists(report_path):
         with open(report_path, "r", encoding="utf-8") as f:
             rapport_html = f.read()
@@ -40,9 +58,11 @@ elif page == "Prédictions":
         col1, col2, col3 = st.columns(3)
 
         with col1:
-            gender = st.selectbox("Gender", options=(data['Gender'].unique().tolist() if data is not None else ['Male','Female']))
+            gender_options = data['Gender'].unique().tolist() if isinstance(data, pd.DataFrame) and 'Gender' in data.columns else ['Male','Female']
+            gender = st.selectbox("Gender", options=gender_options)
             age = st.number_input("Age", min_value=15, max_value=100, value=20)
-            major = st.selectbox("Major", options=(sorted(data['Major'].unique().tolist()) if data is not None else ['Engineering','Business']))
+            major_options = sorted(data['Major'].unique().tolist()) if isinstance(data, pd.DataFrame) and 'Major' in data.columns else ['Computer Science','Economics', 'Business', 'Engineering', 'Mathematics', 'Psychology']
+            major = st.selectbox("Major", options=major_options)
 
         with col2:
             attendance = st.number_input("Attendance (%)", min_value=0.0, max_value=100.0, value=80.0, format="%.1f")
@@ -52,7 +72,6 @@ elif page == "Prédictions":
         with col3:
             sleep_hours = st.number_input("Sleep hours", min_value=0.0, max_value=24.0, value=7.0, format="%.1f")
             social_hours = st.number_input("Social hours per week", min_value=0, max_value=168, value=5)
-            student_id = st.text_input("Student ID (optionnel)", value="ID-----")
 
         submit = st.form_submit_button("Prédire")
 
@@ -68,8 +87,6 @@ elif page == "Prédictions":
             'Sleep_Hours': float(sleep_hours),
             'Social_Hours_Week': int(social_hours)
         }
-
-        api_url = "http://localhost:8000/predict"
         try:
             response = requests.post(api_url, json=payload)
             if response.status_code == 200:
@@ -81,5 +98,5 @@ elif page == "Prédictions":
             st.error(f"Impossible de joindre l'API sur {api_url}. Assurez-vous qu'elle est lancée (uvicorn api:app --reload).\n\nDétails: {e}")
 
     # Optionally show sample of the dataset
-    if data is not None and st.checkbox("Afficher un extrait des données" ):
+    if isinstance(data, pd.DataFrame) and st.checkbox("Afficher un extrait des données" ):
         st.dataframe(data.head())

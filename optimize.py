@@ -74,7 +74,7 @@ best_pipeline = search.best_estimator_
 y_pred_valid = best_pipeline.predict(X_valid)
 mae_valid = mean_absolute_error(y_valid, y_pred_valid)
 
-print("\n=== Résultats ===")
+print("\n=== Résultats ===" )
 print(f"Meilleurs paramètres : {search.best_params_}")
 print(f"MAE CV (train)       : {-search.best_score_:.4f}")
 print(f"MAE (validation)     : {mae_valid:.4f}")

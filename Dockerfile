@@ -22,4 +22,4 @@ COPY . .
 EXPOSE 8000 8501
 
 # Commande de lancement (adapter selon l'app : fastapi ou streamlit)
-CMD uvicorn api:app --reload && streamlit run app.py --server.port 8501
+CMD uvicorn api:app --reload & streamlit run app.py --server.port 8501

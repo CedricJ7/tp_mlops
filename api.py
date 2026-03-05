@@ -10,6 +10,7 @@ import joblib
 import pandas as pd
 from fastapi import FastAPI
 from pydantic import BaseModel, Field
+import os 
 
 
 # ---------------------------------------------------------------------------
@@ -79,3 +80,9 @@ def predict(data: StudentFeatures):
     return {
         "predicted_Final_CGPA": round(float(prediction), 4)
     }
+
+@app.get('/data')
+def get_data():
+    '''retourne les 3 documents contenant les données.'''
+    
+    return('pd.read_csv(data/Student_data.csv)')
