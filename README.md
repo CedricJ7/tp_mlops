@@ -3,10 +3,12 @@ This CSV file contains the complete dataset of 5,000 university students. It inc
 
 Source : https://www.kaggle.com/datasets/robiulhasanjisan/university-student-performance-and-habits-dataset
 
-A l'aide de  : nombre d'heure de sommeil, le précédent gpa (grade point average), l'âge, le genre, la présence (%) ... nous allons chercher à prédire le final gpa.
+A l'aide de  : nombre d'heures de sommeil, le précédent gpa (grade point average), l'âge, le genre, la présence (%) ... nous allons chercher à prédire le final gpa.
 
 La tâche est donc une régression, la taille du fichier est de 274 kb, composé de 5000 étudiants avec 8 paramètres (features) avec 2 catégories.
 Pas de valeur manquante.
+
+
 
 Column Name 	Description 	Type
 Student_ID 	Unique identifier for each student ( ID00001) 	String

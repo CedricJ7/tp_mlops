@@ -21,5 +21,5 @@ COPY . .
 # Exposer le port (8000 pour FastAPI, 8501 pour Streamlit)
 EXPOSE 8000 8501
 
-# Commande de lancement (adapter selon l'app : fastapi ou streamlit)
-CMD uvicorn api:app --reload & streamlit run app.py --server.port 8501
+# Commande de lancement de l'api et de l'app streamlit
+CMD uvicorn api:app --host 0.0.0.0 --port 8000 & streamlit run app.py --server.address 0.0.0.0 --server.port 8501    
